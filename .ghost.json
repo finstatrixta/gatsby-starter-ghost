@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://school-of-balance.herokuapp.com/",
+    "apiUrl": "https://school-of-balance.herokuapp.com",
     "contentApiKey": "14c8d440f357c79304c365e840"
   },
   "production": {
-    "apiUrl": "https://school-of-balance.herokuapp.com/",
+    "apiUrl": "https://school-of-balance.herokuapp.com",
     "contentApiKey": "14c8d440f357c79304c365e840"
   }
 }
